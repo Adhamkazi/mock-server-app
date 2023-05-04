@@ -1,28 +1,28 @@
 {
-  "dogs": [{
-          "id": 1,
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male"
-      }, {
-          "id": 2,
-      "name": "Tommy",
-      "age": 3,
-      "place": "Banglore",
-      "gender": "Female"
-      }, {
-      "name": "wolf",
-      "age": "10",
-      "gender": "male",
-      "place": "india",
-      "id": 3
-      }, {
-      "name": "dog",
-      "age": "3",
-      "gender": "male",
-      "place": "india",
-      "id": 4
-      }
-      ]
-}
+    "dogs": [{
+            "id": 1,
+            "name": "Cherry",
+            "age": 2,
+            "place": "Visakhapatnam",
+            "gender": "Male"
+        }, {
+            "id": 2,
+            "name": "Tommy",
+            "age": 3,
+            "place": "Banglore",
+            "gender": "Female"
+        }, {
+            "name": "wolf",
+            "age": "10",
+            "gender": "male",
+            "place": "india",
+            "id": 3
+        }, {
+            "name": "dog",
+            "age": "3",
+            "gender": "male",
+            "place": "india",
+            "id": 4
+    }],
+    "Quiz": [{}]
+    }
