@@ -30,5 +30,13 @@
         "category": "sports",
         "level": "easy",
         "number": 5
+    }],
+    "employees": [{
+            "id": 1,
+            "firstName": "john",
+            "lastName": "wick",
+            "email": "wick@gmail.com",
+            "department": "Operations",
+            "salary": 200000
     }]
 }
