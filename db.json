@@ -1,42 +1,77 @@
 {
-    "dogs": [{
-        "id": 1,
-        "name": "Cherry",
-        "age": 2,
-        "place": "Visakhapatnam",
-        "gender": "Male"
-    }, {
-        "id": 2,
-        "name": "Tommy",
-        "age": 3,
-        "place": "Banglore",
-        "gender": "Female"
-    }, {
-        "name": "wolf",
-        "age": "10",
-        "gender": "male",
-        "place": "india",
-        "id": 3
-    }, {
-        "name": "dog",
-        "age": "3",
-        "gender": "male",
-        "place": "india",
-        "id": 4
-    }],
-    "Quiz": [{
-        "id": 1,
-        "name": "adham",
-        "category": "sports",
-        "level": "easy",
-        "number": 5
-    }],
-    "employees": [{
+    "dogs": [
+        {
+            "id": 1,
+            "name": "Cherry",
+            "age": 2,
+            "place": "Visakhapatnam",
+            "gender": "Male"
+        },
+        {
+            "id": 2,
+            "name": "Tommy",
+            "age": 3,
+            "place": "Banglore",
+            "gender": "Female"
+        },
+        {
+            "name": "wolf",
+            "age": "10",
+            "gender": "male",
+            "place": "india",
+            "id": 3
+        },
+        {
+            "name": "dog",
+            "age": "3",
+            "gender": "male",
+            "place": "india",
+            "id": 4
+        }
+    ],
+    "Quiz": [
+        {
+            "id": 1,
+            "name": "adham",
+            "category": "sports",
+            "level": "easy",
+            "number": 5
+        }
+    ],
+    "employees": [
+        {
             "id": 1,
             "firstName": "john",
             "lastName": "wick",
             "email": "wick@gmail.com",
             "department": "Operations",
             "salary": 200000
-    }]
+        }
+    ],
+    "icecreams": [
+        {
+            "id": 1,
+            "name": "Dark Chocolate",
+            "Flavor": "Chocolate",
+            "Description": "Rich, creamy chocolate ice cream.",
+            "Price": 250,
+            "Stock": 10
+        },
+        {
+            "id": 2,
+            "name": "Classic Vanilla",
+            "Flavor": "Vanilla",
+            "Description": "Classic vanilla ice cream.",
+            "Price": 200,
+            "Stock": 15
+        },
+        {
+            "id": 3,
+            "name": "Neapolitan",
+            "Flavor": "Strawberry",
+            "Description": "Fresh and fruity strawberry ice cream.",
+            "Price": 300,
+            "Stock": 8
+        }
+    ]
 }
