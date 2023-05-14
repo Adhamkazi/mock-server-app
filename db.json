@@ -73,5 +73,15 @@
             "price": 300,
             "stock": 8
         }
+    ],
+    "cart": [
+        {
+            "id": 2,
+            "name": "Classic Vanilla",
+            "flavor": "Vanilla",
+            "description": "Classic vanilla ice cream.",
+            "price": 200,
+            "stock": 15
+        }
     ]
 }
