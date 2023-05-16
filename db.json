@@ -83,5 +83,13 @@
             "price": 200,
             "stock": 15
         }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "fullName": "Adham Kazi ",
+            "email": "kazi@gmail.com",
+            "password": "123"
+        }
     ]
 }
